@@ -8,7 +8,7 @@
 ```
 ./easyweb -root_dir ./html -port=8081
 ```
-- try to open it in your brower
+- try to open it in your browser
 ```
 http://localhost:8080
 ```
